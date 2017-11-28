@@ -1,0 +1,17 @@
+{
+  "name": "salu",
+  "version": "0.3.0",
+  "description": "A sample Node.js app using Express 4",
+  
+  "scripts":{
+  "start": "node server.js"
+  },
+  
+  "dependencies":{
+  "express": "4.13.3"
+  },
+  
+  
+  "author":"salu"
+  "license": "MIT"
+}
